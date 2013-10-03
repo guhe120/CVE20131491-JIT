@@ -23,6 +23,8 @@ http://aj43xnbacx.l31.yunpan.cn/lk/QGb98dgpj74YJ
 
 
 ========================= How to compile ======================================
+
+
 To compile the source code, you need jdk and python installed.
 
 1. Make sure "javac" and "python" is in your path environments.
@@ -36,6 +38,8 @@ To compile the source code, you need jdk and python installed.
 	
 
 ========================= How to test =========================================
+
+
 Environment:   JRE 7u17   + Windows 7 32bits (english version)
 
 1. Put the two files "HelloApplet.html" and "Exploit.jar" in the same folder, copy them to your test machine.
