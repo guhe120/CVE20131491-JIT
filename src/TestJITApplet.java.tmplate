@@ -1,0 +1,18 @@
+import java.applet.Applet;
+
+public class TestJITApplet extends Applet {
+	
+	
+	
+	public TestJITApplet() {
+		
+		$call_spray_functions
+		
+	}
+	
+	public void init() {
+		
+	}
+	
+	$spray_functions
+}
